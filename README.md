@@ -54,6 +54,21 @@
 
 <img src="https://user-images.githubusercontent.com/73642253/122593774-d137b100-d06e-11eb-8ad9-5f08f275aec0.png" />
   
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73642253/124777758-1aca3c00-df49-11eb-8a59-78269c6b9b1d.png" />
+ 
   
+<hr />
+
+
+<img src="https://user-images.githubusercontent.com/73642253/124777773-1c93ff80-df49-11eb-9e54-5f58f0027f23.png" />
+  
+
+<hr />
+
 
 </div>
